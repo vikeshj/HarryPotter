@@ -10,10 +10,9 @@ in the data folder. The Data Structure and Resource is already given.
 
 Main elements of the screen
 - Scrollable top app bar with big image and scroll-to-fade feature.
-- Interactive serving calculator.
-- List of ingredients.
 - Custom buttons.
 - List of images.
+- Custom detail view
 
 ### Preview
 
